@@ -251,7 +251,7 @@ namespace ExplorationGame
                                                                                         else
                                                                                         {
                                                                                             Console.WriteLine("you die");
-                                                                                            Console.WriteLine("type enter to continue...");
+                                                                                            Console.WriteLine("type enter to continue....");
                                                                                             Console.ReadLine();
                                                                                             
                                                                                             Goal = false;
