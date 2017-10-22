@@ -30,7 +30,7 @@ namespace ExplorationGame
                         ";
             return house;
         }
-        public static string Pumpkin()
+        public static string IntroArt()
         {
 
             string pumpkin = @"

@@ -121,7 +121,7 @@ namespace ExplorationGame
                 Console.WriteLine(items);
             }
 
-            Console.WriteLine(Art.Pumpkin());
+            Console.WriteLine(Art.IntroArt());
             Console.WriteLine("1) Haunted House 2) Bowling Alley 3) Library 4) Arcade 5)Exit");
             Input = Console.ReadLine();
             if (int.TryParse(Input, out Choice))
